@@ -6,3 +6,7 @@ method()
 {
     print "my name is ZC"
 }
+end()
+{
+    print "today is a good day"
+}
